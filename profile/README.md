@@ -1,8 +1,11 @@
 Valeo.it è una web agency e una software house che conta 30 professionisti specializzati in:
 
 💻 Siti web aziendali ed e-commerce
+
 🎯 Digital Marketing e SEO
+
 ⚙️ Sviluppo di Software e app
+
 💡 Nuove tecnologie e sviluppo idee innovative
 
 La parola chiave è innovare, in modo consapevole.
