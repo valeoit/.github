@@ -20,6 +20,4 @@ Solo così - insieme alle aziende - facciamo volare il loro modello di business 
 
 Siti web aziendali, e-commerce, app mobile iOS e Android, sviluppo custom di gestionali e software su misura, strategie di digital marketing, SEO, social media, email marketing e campagne pubblicitarie.
 
-🚀 Siete pronti per la rivoluzione digitale?
-
-Vi aspettiamo su www.valeo.it
+🚀 Siete pronti per la rivoluzione digitale? Vi aspettiamo su www.valeo.it
